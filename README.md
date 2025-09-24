@@ -1,4 +1,5 @@
 # Crazy Button Project
+<img width="1510" height="579" alt="image" src="https://github.com/user-attachments/assets/74c881c0-9f0e-4fc4-999d-1d97e37c3522" />
 
 Кратко: Интерактивная страница с «убегающей» кнопкой — простая игра/демонстрация взаимодействия элемента с курсором.
 
